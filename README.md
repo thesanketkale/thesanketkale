@@ -20,4 +20,4 @@
 - **High-Concurrency Geo-Marketing & E-Commerce Platforms:** Designed and delivered full-stack ASP.NET applications backed by MSSQL/MySQL—including a real-time GPS campaign management engine, an enterprise product search engine, and a B2B2C retail SKU/QR management system.
 - **Multi-API Aggregation & AI Automation Engine:** Built an asynchronous job aggregation and workflow automation platform integrating 8+ external REST APIs with AI-driven document parsing and dispatch pipelines.
 
-*(Note: Most of my daily commit activity displayed below is within private NDA-protected enterprise and SaaS repositories. Happy to walk through system architecture diagrams, cloud topologies, and sanitized code samples during technical interviews.)*
+*(Note: Most of my daily commit activity displayed below is within private NDA-protected enterprise and SaaS repositories.)*
